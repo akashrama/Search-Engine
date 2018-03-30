@@ -11,7 +11,7 @@ sample datasets are provided in the data folder (ie gutenberg, spec-pagerank-ex2
 
 TFID and pageRank algorithms have been implemented in their respective files
 
-thes files have tests written to ensure functionality
+these files have tests written to ensure functionality
 
 thoses pages use data structures that I've implemented
 
