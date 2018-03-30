@@ -1,5 +1,6 @@
 # Search Engine
-# first download project
+first download project
+
 // to also run test code download and import as gradle project
 // to run the search engine run Main.java and follow instructions
 // data folder in Main.java may be changed to search over different datasets
