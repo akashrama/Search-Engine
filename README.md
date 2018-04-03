@@ -11,6 +11,8 @@ sample datasets are provided in the data folder (ie gutenberg, spec-pagerank-ex2
 
 TFID and pageRank algorithms have been implemented in their respective files
 
+can be reached by src.main.java.search.analyzers
+
 these files have tests written to ensure functionality
 
 thoses pages use data structures that I've implemented
