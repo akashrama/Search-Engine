@@ -9,7 +9,7 @@ data folder in Main.java may be changed to search over different datasets
 
 sample datasets are provided in the data folder (ie gutenberg, spec-pagerank-ex2, and wikipedia)
 
-TFID and pageRank algorithms have been implemented in their respective files
+TFIDF and pageRank algorithms have been implemented in their respective files
 
 can be reached by src.main.java.search.analyzers
 
